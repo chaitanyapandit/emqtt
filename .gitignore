@@ -1,3 +1,0 @@
-rel/emqtt/*
-src/apps/emqtt/ebin/*.beam
-ebin/*
